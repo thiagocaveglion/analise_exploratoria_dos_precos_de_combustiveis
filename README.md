@@ -12,7 +12,7 @@
 
 -Instrutor: Alex Lima
 
--Auxiliar: Maurício
+-Auxiliar: Maurício Sobrinho
 
 **Equipe: Gabriel Miranda, Marcus Thadeu, Ruann Campos e Thiago Caveglion**
 
