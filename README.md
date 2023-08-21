@@ -2,7 +2,7 @@
 
 **Execução**
 
--Para rodar o arquivo localmente, certifique-se que a variável "descompactar" está marcada como True na segunda célula
+-Para rodar o arquivo localmente, certifique-se que a variável "descompactar" (notebook dos preços) ou a variável "rodando_localmente" (notebook dos tributos) estão marcadas como True
 
 -Certifique-se também de instalar as bibliotecas: pandas, numpy, matplotlib, seaborn, geopandas, xlrd e mpl_toolkits no seu ENV 
 
