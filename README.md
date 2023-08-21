@@ -1,6 +1,6 @@
 # analise_exploratoria_dos_precos_de_combustiveis
 
-**Execução
+**Execução**
 -Para rodar o arquivo localmente, certifique-se que a variável "descompactar" está marcada como True na segunda célula
 
 -Certifique-se também de instalar as bibliotecas: pandas, numpy, matplotlib, seaborn, geopandas e mpl_toolkits no seu ENV 
