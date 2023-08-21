@@ -11,6 +11,7 @@
 **Projeto - Técnicas de Programação I**
 
 -Instrutor: Alex Lima
+
 -Auxiliar: Maurício
 
 **Equipe: Gabriel Miranda, Marcus Thadeu, Ruann Campos e Thiago Caveglion**
