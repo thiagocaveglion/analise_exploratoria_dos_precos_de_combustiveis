@@ -16,7 +16,7 @@
 
 **Equipe: Gabriel Miranda, Marcus Thadeu, Ruann Campos e Thiago Caveglion**
 
-O projeto como um todo tem como objetivos:
+O projeto tem como objetivos:
 * Analisar de forma exploratória a série histórica de preços de combustíveis no Brasil no período de 2018.1 a 2023.1;
 * Analisar de forma exploratória a série histórica de arrecadações tributárias estaduais no mesmo período;
 * Relacionar ambos datasets.
